@@ -1,0 +1,36 @@
+body {
+  background: hotpink
+  
+}
+header {
+  background-color: #7c06bc;
+  color: #0613cb;
+  padding: 30px;
+  text-align: center;
+}
+
+img {
+  width: 350px;
+  height: 350px;
+  border-radius: 9999;
+}
+
+main{
+  padding: 20px;
+}
+section {
+  margin-bottom: 20px;
+}
+h1 {
+  color: #0b10a8;
+  font-family: Algerian;
+}
+h2 {
+  color: #d70909;
+  font-family: Comic Sans Ms;
+}
+h3 {
+  color: #067a0d;
+  font-family: Bradley Hand ITC;
+}
+
